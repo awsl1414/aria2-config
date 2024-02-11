@@ -1,0 +1,90 @@
+2024-02-11 20:45:57.125958 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 20:45:57.131959 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 20:45:57.131959 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 20:45:58.144104 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:46:02.645603 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 20:46:02.645603 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 20:46:02.645603 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 20:46:03.667707 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:46:17.221436 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 20:46:17.221436 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 20:46:17.221436 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 20:46:18.237318 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:46:31.166550 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 20:46:31.166550 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 20:46:31.166550 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 20:46:32.181485 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:48:36.358116 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:48:40.211214 [NOTICE] [RequestGroup.cc:1214] Download complete: %USERPROFILE%/Downloads/QQ9.9.7.21484_x64.exe
+2024-02-11 20:48:40.364840 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:50:22.472485 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:50:25.577307 [NOTICE] [RequestGroup.cc:1214] Download complete: %USERPROFILE%/Downloads/QQ9.9.7.21484_x64.exe
+2024-02-11 20:50:25.579615 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:51:05.913120 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:51:09.053522 [NOTICE] [RequestGroup.cc:1214] Download complete: %USERPROFILE%/Downloads/QQ9.9.7.21484_x64.exe
+2024-02-11 20:51:09.055543 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:51:56.316780 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 20:51:56.316780 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 20:51:56.316780 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 20:51:57.335106 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:52:27.783572 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 20:52:27.784575 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 20:52:27.784575 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 20:52:28.801798 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:54:43.946381 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 20:54:43.946381 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 20:54:43.946381 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 20:54:45.076379 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:55:13.237625 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 20:55:13.237625 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 20:55:13.237625 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 20:55:14.250418 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:55:23.603714 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:55:27.556222 [NOTICE] [RequestGroup.cc:1214] Download complete: ${USERPROFILE}/Downloads/QQ9.9.7.21484_x64.exe
+2024-02-11 20:55:28.477797 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:55:45.080429 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 20:55:45.080429 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 20:55:45.080429 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 20:55:46.321516 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:55:53.384677 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:55:56.715634 [NOTICE] [RequestGroup.cc:1214] Download complete: %{USERPROFILE}%/Downloads/QQ9.9.7.21484_x64.exe
+2024-02-11 20:55:56.718921 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:58:24.568381 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 20:58:24.568381 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 20:58:24.568381 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 20:58:26.319274 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:58:45.102110 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 20:58:45.103112 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 20:58:45.103112 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 20:58:46.325218 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:58:59.117359 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:59:02.455024 [NOTICE] [RequestGroup.cc:1214] Download complete: %USERPROFILE%/Downloads/QQ9.9.7.21484_x64.exe
+2024-02-11 20:59:02.463182 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:59:33.758330 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:59:37.385457 [NOTICE] [RequestGroup.cc:1214] Download complete: %USERPROFILE%/Downloads/QQ9.9.7.21484_x64.exe
+2024-02-11 20:59:37.387851 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:59:49.600546 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 20:59:53.487517 [NOTICE] [RequestGroup.cc:1214] Download complete: %USERPROFILE%/Downloads/QQ9.9.7.21484_x64.exe
+2024-02-11 20:59:54.510379 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 21:02:15.555444 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 21:02:15.556445 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 21:02:15.556445 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 21:02:16.856829 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 21:02:23.061111 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 21:02:27.148970 [NOTICE] [RequestGroup.cc:1214] Download complete: $HOME/Downloads/QQ9.9.7.21484_x64.exe
+2024-02-11 21:02:27.152271 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 21:03:17.519536 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 21:03:17.519536 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 21:03:17.519536 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 21:03:18.570160 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 21:03:23.576155 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 21:03:26.996919 [NOTICE] [RequestGroup.cc:1214] Download complete: D:/Downloads/QQ9.9.7.21484_x64.exe
+2024-02-11 21:03:26.998921 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 21:07:26.246163 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 21:07:26.246163 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 21:07:26.246163 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 21:07:27.265916 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-02-11 21:07:29.353209 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-02-11 21:07:29.354211 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-02-11 21:07:29.354211 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-02-11 21:07:31.210193 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
